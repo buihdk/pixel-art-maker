@@ -4,10 +4,10 @@
 
 ## User Stories
 
-- [x] Dynamically set the size of the table as an N by M grid.
-- [x] Choose a color.
-- [x] Click a cell in the grid to fill that cell with the chosen color.
-- [x] Clear the existing canvas to start a new one
+- [x] User can dynamically set the size of the table as an N by M grid.
+- [x] User can choose a color.
+- [x] User can click a cell in the grid to fill that cell with the chosen color.
+- [x] User can clear the existing canvas to start a new one.
 
 ## Video Walkthrough
 
